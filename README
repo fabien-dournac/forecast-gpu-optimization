@@ -1,0 +1,1 @@
+Cosmology : in the context of a Forecast on DESI survey, this code optimizes with NVIDIA GPU framework the computation of Fisher elements using observable covariance matrix from the paper of (White, Song et Percival, 2008).
